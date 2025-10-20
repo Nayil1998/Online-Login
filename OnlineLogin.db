@@ -3,7 +3,7 @@
     "Device Id": "6af6d38755b87a1a", 
     "username": "Bzz",
     "password": "6af6d38755b87a1a",
-    "expiry": "2025-10-15" // DATE FORMAT~ YYYY-MM-DD
+    "expiry": "2095-10-15" // DATE FORMAT~ YYYY-MM-DD
   },
   {
     "Device Id": "",  // NO DEVICE ID, LOGIN NOT WORK 
