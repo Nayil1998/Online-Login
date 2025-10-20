@@ -1,8 +1,8 @@
 [
   {
-    "Device Id": "PASTE-DEVICE-ID", 
-    "username": "PASTE-USERNAME",
-    "password": "PASTE-PASSWORD",
+    "Device Id": "6af6d38755b87a1a", 
+    "username": "7z",
+    "password": "Goat",
     "expiry": "2025-10-15" // DATE FORMAT~ YYYY-MM-DD
   },
   {
