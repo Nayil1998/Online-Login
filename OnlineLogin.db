@@ -1,50 +1,50 @@
 [
   {
-    "Device Id": "6af6d38755b87a1a",
+    "deviceId": "6af6d38755b87a1a-01",
     "username": "7z",
-    "password": "6af6d38755b87a1a",
+    "password_hash": "sha256$REPLACE_WITH_HASH",
     "expiry": "2025-11-21"
   },
   {
-    "Device Id": "6af6d38755b87a1a",
+    "deviceId": "6af6d38755b87a1a-02",
     "username": "Bzz",
-    "password": "6af6d38755b87a1a",
+    "password_hash": "sha256$REPLACE_WITH_HASH",
     "expiry": "2095-10-15"
   },
   {
-    "Device Id": "6af6d38755b87a1a",
+    "deviceId": "uuid-3",
     "username": "abc",
-    "password": "101",
+    "password_hash": "sha256$REPLACE_WITH_HASH",
     "expiry": "2026-09-29"
   },
   {
-    "Device Id": "6af6d38755b87a1a",
+    "deviceId": "uuid-4",
     "username": "def",
-    "password": "102",
-    "expiry": ""
+    "password_hash": "sha256$REPLACE_WITH_HASH",
+    "expiry": null
   },
   {
-    "Device Id": "6af6d38755b87a1a",
+    "deviceId": "uuid-5",
     "username": "3ed",
-    "password": "6af6d38755b87a1a",
+    "password_hash": "sha256$REPLACE_WITH_HASH",
     "expiry": "2066-01-01"
   },
   {
-    "Device Id": "PASTE-DEVICE-ID",
+    "deviceId": "uuid-6",
     "username": "jkl",
-    "password": "104",
-    "expiry": ""
+    "password_hash": "sha256$REPLACE_WITH_HASH",
+    "expiry": null
   },
   {
-    "Device Id": "PASTE-DEVICE-ID",
+    "deviceId": "uuid-7",
     "username": "mno",
-    "password": "105",
-    "expiry": "2025-10-04"
+    "password_hash": "sha256$REPLACE_WITH_HASH",
+    "expiry": null
   },
   {
-    "Device Id": "PASTE-DEVICE-ID",
+    "deviceId": "uuid-8",
     "username": "pqr",
-    "password": "106",
-    "expiry": ""
+    "password_hash": "sha256$REPLACE_WITH_HASH",
+    "expiry": null
   }
 ]
