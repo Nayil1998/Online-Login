@@ -1,56 +1,56 @@
 [
   {
-    "deviceId": "AND458F1A62B5F3-01",
+    "deviceId": "458f1a62b5f35b08-01",
     "username": "TEST",
-    "password_hash": "sha256$REPLACE_WITH_HASH",
-    "expiry": "2024-12-31"
+    "password_hash": "test123",
+    "expiry": "2025-12-31"
   },
   {
     "deviceId": "6af6d38755b87a1a-01",
     "username": "7z",
-    "password_hash": "sha256$REPLACE_WITH_HASH",
+    "password_hash": "7z1234",
     "expiry": "2025-11-21"
   },
   {
     "deviceId": "6af6d38755b87a1a-02",
     "username": "Bzz",
-    "password_hash": "sha256$REPLACE_WITH_HASH",
+    "password_hash": "bzz1234",
     "expiry": "2095-10-15"
   },
   {
-    "deviceId": "AND458F1A62B5F3-01",
+    "deviceId": "458f1a62b5f35b08-01",
     "username": "GG",
-    "password_hash": "sha256$REPLACE_WITH_HASH",
+    "password_hash": "gg1234",
     "expiry": "2026-09-29"
   },
   {
     "deviceId": "uuid-4",
     "username": "def",
-    "password_hash": "sha256$REPLACE_WITH_HASH",
+    "password_hash": "def1234",
     "expiry": null
   },
   {
     "deviceId": "uuid-5",
     "username": "3ed",
-    "password_hash": "sha256$REPLACE_WITH_HASH",
+    "password_hash": "3ed1234",
     "expiry": "2066-01-01"
   },
   {
     "deviceId": "uuid-6",
     "username": "jkl",
-    "password_hash": "sha256$REPLACE_WITH_HASH",
+    "password_hash": "jkl1234",
     "expiry": null
   },
   {
     "deviceId": "uuid-7",
     "username": "mno",
-    "password_hash": "sha256$REPLACE_WITH_HASH",
+    "password_hash": "mno1234",
     "expiry": null
   },
   {
     "deviceId": "uuid-8",
     "username": "pqr",
-    "password_hash": "sha256$REPLACE_WITH_HASH",
+    "password_hash": "pqr1234",
     "expiry": null
   }
 ]
