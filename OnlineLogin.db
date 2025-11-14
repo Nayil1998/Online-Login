@@ -12,9 +12,9 @@
     "expiry": "2095-10-15"
   },
   {
-    "deviceId": "uuid-3",
-    "username": "abc",
-    "password_hash": "sha256$REPLACE_WITH_HASH",
+    "deviceId": "AND458F1A62B5F3-01",
+    "username": "GG",
+    "password_hash": "GG" "sha256$REPLACE_WITH_HASH",
     "expiry": "2026-09-29"
   },
   {
