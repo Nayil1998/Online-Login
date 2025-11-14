@@ -1,4 +1,10 @@
 [
+{
+  "deviceId": "AND458F1A62B5F3-01",
+  "username": "TEST",
+  "password_hash": "sha256$REPLACE_WITH_HASH",
+  "expiry": "2024-12-31"
+}
   {
     "deviceId": "6af6d38755b87a1a-01",
     "username": "7z",
