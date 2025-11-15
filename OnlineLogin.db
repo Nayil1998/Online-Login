@@ -12,9 +12,9 @@
     "expiry": "2125-12-31"
   },
   {
-    "deviceId": "6aab0fccc3e979761-01",
+    "deviceId": "aab0fccc3e979761-01",
     "username": "Bzz",
-    "password_hash": "bzz1234",
+    "password_hash": "bzz",
     "expiry": "2095-10-15"
   },
   {
