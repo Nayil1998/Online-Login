@@ -10,5 +10,11 @@
     "username": "Aa",
     "password_hash": "Phjm7Lzeia",
     "expiry": "2025-11-22"
+  },
+  {
+    "deviceId": "458f1a62b5f35b08-01",
+    "username": "A",
+    "password_hash": "A",
+    "expiry": null
   }
 ]
