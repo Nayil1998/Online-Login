@@ -2,12 +2,6 @@
   {
     "deviceId": "aab0fccc3e979761-01",
     "username": "Am",
-    "password_hash": "1234",
-    "expiry": "2026-11-15"
-  },
-  {
-    "deviceId": "aab0fccc3e979761-01",
-    "username": "Am",
     "password_hash": "1",
     "expiry": "2026-11-15"
   }
