@@ -1,12 +1,6 @@
 [
   {
     "deviceId": "aab0fccc3e979761-01",
-    "username": "Am",
-    "password_hash": "GyFLG2ZhHQ",
-    "expiry": "2025-11-22"
-  },
-  {
-    "deviceId": "aab0fccc3e979761-01",
     "username": "NAYIL",
     "password_hash": "AKJ6LYR4pT",
     "expiry": null
