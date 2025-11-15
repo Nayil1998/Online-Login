@@ -1,56 +1,8 @@
 [
   {
-    "deviceId": "1d70cbf8b9cd5f33-01",
-    "username": "TEST",
-    "password_hash": "test123",
-    "expiry": "2025-12-31"
-  },
-  {
-    "deviceId": "aab0fccc3e979761-01",
-    "username": "7z",
-    "password_hash": "7z7z7z",
-    "expiry": "2125-12-31"
-  },
-  {
-    "deviceId": "458f1a62b5f35b08-01",
-    "username": "Bzz",
-    "password_hash": "bzz",
-    "expiry": "2095-10-15"
-  },
-  {
-    "deviceId": "458f1a62b5f35b08-01",
-    "username": "GG",
-    "password_hash": "gg1234",
-    "expiry": "2026-09-29"
-  },
-  {
-    "deviceId": "uuid-4",
-    "username": "def",
-    "password_hash": "def1234",
-    "expiry": null
-  },
-  {
-    "deviceId": "uuid-5",
-    "username": "3ed",
-    "password_hash": "3ed1234",
-    "expiry": "2066-01-01"
-  },
-  {
-    "deviceId": "uuid-6",
-    "username": "jkl",
-    "password_hash": "jkl1234",
-    "expiry": null
-  },
-  {
     "deviceId": "aab0fccc3e979761-01",
     "username": "Am",
     "password_hash": "1234",
-    "expiry": null
-  },
-  {
-    "deviceId": "uuid-8",
-    "username": "pqr",
-    "password_hash": "pqr1234",
     "expiry": null
   }
 ]
