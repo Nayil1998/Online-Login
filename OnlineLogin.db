@@ -4,5 +4,11 @@
     "username": "Heroo",
     "password_hash": "12345",
     "expiry": "2025-12-16"
+  },
+  {
+    "deviceId": "6e4bef7b84220375-01",
+    "username": "DEV",
+    "password_hash": "911",
+    "expiry": null
   }
 ]
