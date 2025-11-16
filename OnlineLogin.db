@@ -22,11 +22,5 @@
     "username": "NAYIL",
     "password_hash": "N",
     "expiry": null
-  },
-  {
-    "deviceId": "70d9508f9227f91a-01",
-    "username": "Hero",
-    "password_hash": "2Yz6NeBT5i",
-    "expiry": null
   }
 ]
