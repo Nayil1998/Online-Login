@@ -1,26 +1,8 @@
 [
   {
-    "deviceId": "83329953c5194748-01",
-    "username": "Aa",
-    "password_hash": "Aa",
-    "expiry": null
-  },
-  {
-    "deviceId": "a1d4117be9f1be78-01",
-    "username": "A",
-    "password_hash": "A",
-    "expiry": null
-  },
-  {
-    "deviceId": "512dbf8426ea59f4-01",
-    "username": "Ali",
-    "password_hash": "uDnhRAHySr",
-    "expiry": null
-  },
-  {
-    "deviceId": "6e4bef7b84220375-01",
-    "username": "NAYIL",
-    "password_hash": "N",
-    "expiry": null
+    "deviceId": "70d9508f9227f91a-01",
+    "username": "Heroo",
+    "password_hash": "12345",
+    "expiry": "2025-12-16"
   }
 ]
