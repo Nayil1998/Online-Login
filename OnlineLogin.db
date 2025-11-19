@@ -28,5 +28,11 @@
     "username": "Test",
     "password_hash": "726XyvSV3z",
     "expiry": "2026-11-19"
+  },
+  {
+    "deviceId": "458f1a62b5f35b08-01",
+    "username": "DEV",
+    "password_hash": "911",
+    "expiry": null
   }
 ]
