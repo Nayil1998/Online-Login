@@ -76,5 +76,11 @@
     "username": "12",
     "password_hash": "12",
     "expiry": "2026-12-02"
+  },
+  {
+    "deviceId": "11a6c532764fca0b-01",
+    "username": "أي شي",
+    "password_hash": "0",
+    "expiry": null
   }
 ]
