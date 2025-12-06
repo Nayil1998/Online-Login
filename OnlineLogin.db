@@ -84,9 +84,9 @@
     "expiry": null
   },
   {
-    "deviceId": "6e4bef7b84220375",
-    "username": "TEST",
-    "password_hash": "hmeBpkFajb",
+    "deviceId": "20bd79782a09d009-01",
+    "username": "T",
+    "password_hash": "1",
     "expiry": "2025-12-13"
   }
 ]
