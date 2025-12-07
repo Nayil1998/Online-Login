@@ -4,5 +4,11 @@
     "username": "er",
     "password_hash": "0",
     "expiry": "2026-01-06"
+  },
+  {
+    "deviceId": "ba36e8cbcfcf105d-01",
+    "username": "platoplato12",
+    "password_hash": "Bat",
+    "expiry": "2026-01-06"
   }
 ]
