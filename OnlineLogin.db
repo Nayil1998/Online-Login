@@ -76,5 +76,11 @@
     "deviceId": "6e4bef7b84220375-01",
     "password_hash": "K5dz8EEL0MYj",
     "expiry": "2026-03-09"
+  },
+  {
+    "deviceId": "6e4bef7b84220375",
+    "username": "user3145",
+    "password_hash": "Kt6bq0Kn3!",
+    "expiry": "9999-12-31"
   }
 ]
