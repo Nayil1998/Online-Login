@@ -76,11 +76,5 @@
     "username": "user4531",
     "password_hash": "Y0QweNd4p3",
     "expiry": "2026-12-17"
-  },
-  {
-    "deviceId": "Aaaaaaaa",
-    "username": "user3306",
-    "password_hash": "v2xhgpPslu",
-    "expiry": "2026-01-16"
   }
 ]
