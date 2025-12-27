@@ -70,11 +70,5 @@
     "username": "ss",
     "password_hash": "0",
     "expiry": "2026-01-06"
-  },
-  {
-    "deviceId": "6e4bef7b84220375-01",
-    "username": "user3033",
-    "password_hash": "uP3A1I2yuB",
-    "expiry": "2026-12-21"
   }
 ]
