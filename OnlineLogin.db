@@ -48,12 +48,6 @@
     "expiry": "2025-12-22"
   },
   {
-    "deviceId": "458f1a62b5f35b08-01",
-    "username": "DE",
-    "password_hash": "9",
-    "expiry": null
-  },
-  {
     "deviceId": "43f73141747de6cb-01",
     "username": "12",
     "password_hash": "12",
