@@ -40,5 +40,11 @@
     "username": "khal17",
     "password_hash": "t2YLPdVit2",
     "expiry": "2025-12-22"
+  },
+  {
+    "deviceId": "6e4bef7b84220375-01",
+    "username": "user5248",
+    "password_hash": "RubUH@dP7A",
+    "expiry": "9999-12-31"
   }
 ]
