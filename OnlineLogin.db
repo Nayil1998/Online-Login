@@ -52,5 +52,11 @@
     "username": "user5975",
     "password_hash": "@oloQ1#wX8",
     "expiry": "9999-12-31"
+  },
+  {
+    "deviceId": "458f1a62b5f35b08-01",
+    "username": "user6781",
+    "password_hash": "MM%Z!linl!",
+    "expiry": "9999-12-31"
   }
 ]
