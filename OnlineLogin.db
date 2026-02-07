@@ -48,12 +48,6 @@
     "expiry": "9999-12-31"
   },
   {
-    "deviceId": "458f1a62b5f35b08-01",
-    "username": "user6781",
-    "password_hash": "MM%Z!linl!",
-    "expiry": "9999-12-31"
-  },
-  {
     "deviceId": "458f1a62b5f35b08",
     "username": "user6130",
     "password_hash": "0Fqho1!zmZ",
