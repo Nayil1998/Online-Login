@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "deviceId": "6e4bef7b84220375-01",
+    "username": "user3290",
+    "password_hash": "r%lZ2ES%fX",
+    "expiry": "9999-12-31"
+  }
+]
