@@ -10,11 +10,5 @@
     "username": "",
     "password_hash": "",
     "expiry": null
-  },
-  {
-    "deviceId": "",
-    "username": "",
-    "password_hash": "",
-    "expiry": null
   }
 ]
