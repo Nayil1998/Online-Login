@@ -1,80 +1,20 @@
 [
   {
-    "deviceId": "70d9508f9227f91a-01",
-    "username": "Heroo",
-    "password_hash": "12345",
+    "deviceId": "",
+    "username": "",
+    "password_hash": "",
     "expiry": null
   },
   {
-    "deviceId": "ab27cbdad842f6e0-01",
-    "username": "LLL",
-    "password_hash": "12345",
+    "deviceId": "",
+    "username": "",
+    "password_hash": "",
     "expiry": null
   },
   {
-    "deviceId": "d09da7e5866df779-01",
-    "username": "CIA",
-    "password_hash": "Ss345077",
-    "expiry": "2025-12-17"
-  },
-  {
-    "deviceId": "ac0354ca3fea58bc-01",
-    "username": "Vid",
-    "password_hash": "URSGd4e5Lz",
-    "expiry": "2025-12-20"
-  },
-  {
-    "deviceId": "2dfa481a0cf5dde6-01",
-    "username": "Hussein",
-    "password_hash": "Qsds5UL5Wc",
-    "expiry": "2025-12-20"
-  },
-  {
-    "deviceId": "9704e08e1de94ee6-01",
-    "username": "Alimoh",
-    "password_hash": "Aa123123",
-    "expiry": "2025-12-21"
-  },
-  {
-    "deviceId": "2fc37114de2c8ca1-01",
-    "username": "khal17",
-    "password_hash": "t2YLPdVit2",
-    "expiry": "2025-12-22"
-  },
-  {
-    "deviceId": "cb5002f7d82f3788-01",
-    "username": "user5975",
-    "password_hash": "@oloQ1#wX8",
-    "expiry": "9999-12-31"
-  },
-  {
-    "deviceId": "458f1a62b5f35b08",
-    "username": "user6130",
-    "password_hash": "0Fqho1!zmZ",
-    "expiry": "2026-03-09"
-  },
-  {
-    "deviceId": "458f1a62b5f35b08-01",
-    "username": "user7852",
-    "password_hash": "SJjhTXraq4",
-    "expiry": "2027-02-08"
-  },
-  {
-    "deviceId": "6e4bef7b84220375-01",
-    "username": "user1396",
-    "password_hash": "I436ZlVqA%",
-    "expiry": "2026-03-10"
-  },
-  {
-    "deviceId": "ad8134f530d4aad0-01",
-    "username": "user6605",
-    "password_hash": "LYKO1u@vlX",
-    "expiry": "2026-03-10"
-  },
-  {
-    "deviceId": "5a1f07de2c835248-01",
-    "username": "user4507",
-    "password_hash": "NIvAv9pB3k",
-    "expiry": "2026-03-12"
+    "deviceId": "",
+    "username": "",
+    "password_hash": "",
+    "expiry": null
   }
 ]
