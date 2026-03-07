@@ -1,14 +1,17 @@
 [
   {
-    "deviceId": "6e4bef7b84220375-01",
-    "username": "user3290",
-    "password_hash": "r%lZ2ES%fX",
-    "expiry": "2027-03-01"
+    "code": "YOUR_ACTIVATION_CODE_1",
+    "deviceId": "458f1a62b5f35b08",
+    "expiry": "2024-12-31T23:59:59Z"
   },
   {
-    "deviceId": "458f1a62b5f35b08",
-    "username": "user4886",
-    "password_hash": "7R258LILvg",
-    "expiry": "9999-12-31"
+    "code": "ANOTHER_CODE",
+    "deviceId": null,
+    "expiry": null
+  },
+  {
+    "code": "PERMANENT_CODE",
+    "deviceId": "another_device_id",
+    "expiry": null
   }
 ]
