@@ -13,5 +13,11 @@
     "code": "PERMANENT_CODE",
     "deviceId": "another_device_id",
     "expiry": null
+  },
+  {
+    "deviceId": "458f1a62b5f35b08l",
+    "username": "user5459",
+    "password_hash": "IHOi!0AOqi",
+    "expiry": "2027-03-07"
   }
 ]
