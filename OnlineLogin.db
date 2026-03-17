@@ -1,37 +1,7 @@
 [
   {
-    "code": "H4HOS3HCL7MH",
-    "deviceId": "458f1a62b5f35b08",
-    "expiry": "2026-04-06T23:59:59Z"
-  },
-  {
-    "code": "M9E42LK3THVJ",
-    "deviceId": "e5ceeec5858d76ba",
-    "expiry": "null"
-  },
-  {
-    "code": "7E5TA5QRO9U8",
-    "deviceId": "6e4bef7b84220375",
-    "expiry": "2026-04-06T23:59:59Z"
-  },
-  {
-    "code": "75GE3UOTCAUU",
-    "deviceId": "5f7034b18c925255",
-    "expiry": "2026-04-09T23:59:59Z"
-  },
-  {
-    "code": "RRMDRZARWDOY",
-    "deviceId": "a2083a3613a905c9",
-    "expiry": "2026-04-12T23:59:59Z"
-  },
-  {
-    "code": "MX6RBVR8WAIV",
-    "deviceId": "db28bb4e259dc968",
-    "expiry": "2026-04-12T23:59:59Z"
-  },
-  {
-    "code": "VBGHW51OARJG",
-    "deviceId": ""
+    "code": "RYAA7V2UVS8Q",
+    "deviceId": "ALL",
     "expiry": "2026-04-16T23:59:59Z"
   }
 ]
